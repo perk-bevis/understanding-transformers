@@ -1,0 +1,10 @@
+transformers
+torch
+librosa
+soundfile
+scipy
+numpy
+pillow
+matplotlib
+sentencepiece
+protobuf
