@@ -1,9 +1,30 @@
-# Understanding Transformers
+<div align="center">
 
-A self-study AI project exploring the **Transformer** architecture through hands-on experiments with Hugging Face models (text, audio and images).
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="90">
 
-- Notebook: [`transformel.ipynb`](transformel.ipynb) ([open in Colab](https://colab.research.google.com/github/perk-bevis/understanding-transformers/blob/main/transformel.ipynb))
-- Live demo: [Hugging Face Space](https://huggingface.co/spaces/perkbevis/Transformel-models)
+<h1>Understanding Transformers</h1>
+
+<p><b>Learn by doing, understand by building:</b><br>
+explore the Transformer architecture through hands-on experiments with text, audio and images.</p>
+
+<p>
+<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.12-3776AB" alt="Python"></a>
+<a href="https://huggingface.co/spaces/perkbevis/Transformel-models"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Space-FFD21E" alt="Hugging Face Space"></a>
+<a href="https://colab.research.google.com/github/perk-bevis/understanding-transformers/blob/main/transformel.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a>
+</p>
+
+<p>
+<a href="https://huggingface.co/spaces/perkbevis/Transformel-models">Live Demo</a> ·
+<a href="transformel.ipynb">Notebook</a> ·
+<a href="#whats-inside">What's inside</a> ·
+<a href="#run-locally">Run locally</a> ·
+<a href="#references">References</a>
+</p>
+
+</div>
+
+---
 
 ## What's inside
 
@@ -31,7 +52,8 @@ python app.py
 | `app.py` | Gradio demo app |
 | `requirements.txt` | Python dependencies |
 | `packages.txt` | System packages (for Spaces) |
-| `elmo.jpg`, `sea.jpg`, `white-flower.jpg`, `audio.mp3` | Sample inputs |
+| `elmo.jpg`, `sea.jpg`, `white-flower.jpg` | Sample images |
+| `Hugging-Face-Course_Resources_audio.mp3` | Sample audio |
 
 ## Notes
 
@@ -40,13 +62,6 @@ python app.py
 
 ## References
 
-- https://huggingface.co/
-- https://arxiv.org/pdf/1910.01108 (DistilBERT)
-
-# Link
-
-https://huggingface.co/
-
-https://arxiv.org/pdf/1910.01108
-
-https://kaggle.com
+- [Hugging Face](https://huggingface.co/)
+- [DistilBERT paper](https://arxiv.org/pdf/1910.01108)
+- [Kaggle](https://kaggle.com)
